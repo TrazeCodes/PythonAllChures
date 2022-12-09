@@ -1,0 +1,8 @@
+import python
+print('PythonChures')
+pCS = input('Want to learn python? ')
+if pCS == 'yes':
+  print('Ok, Let's learn Python!')
+	print('You can create imports on python like import python, you can print, input, if command, elif command, def command and more!')
+	print('All you need to do is write: 'AnswerCreaterText = input('Text')' This is a easy command and write 'print('Hello, World'). Yeah')
+	print('Now if command. Elif and if command is same = if AnswerCreaterText == 'The Answer': do something')
